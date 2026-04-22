@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Trap Gravity Forms for Aline CRM
- * Plugin URI: https://github.com/sageage/gravity-api-trap
+ * Plugin URI: https://github.com/SageageDev/gravity-api-trap
  * Author: SageAge
- * Author URI: https://github.com/sageage/gravity-api-trap
+ * Author URI: https://github.com/SageageDev/gravity-api-trap
  * Description: Collect Gravity forms to Webhook
  * Version: 0.1.4
  * License: GPL2
